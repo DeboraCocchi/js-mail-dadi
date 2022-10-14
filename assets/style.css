@@ -1,0 +1,18 @@
+body{
+  background-color: navy;
+  color:white;
+}
+
+.container{
+  border-radius:10px;
+  background-color: rgba(255,255,255,0.8);
+  color:navy;
+  padding:20px;
+  max-width:80%;
+  margin:20px auto;
+  text-align: center;
+}
+
+h6{
+  color:brown;
+}
